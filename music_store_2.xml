@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<MusicStore>
+  <Artist genre="ROCK" id="1" name="AC/DC">
+    <Album id="1" name="Name1" numberOfSongs="5"/>
+    <Album id="2" name="Name2" numberOfSongs="6"/>
+  </Artist>
+  <Artist genre="RAP" id="2" name="2Pac">
+    <Album id="3" name="Name3" numberOfSongs="7"/>
+    <Album id="4" name="Name4" numberOfSongs="8"/>
+  </Artist>
+  <Artist genre="POP" id="3" name="Lady Gaga">
+    <Album id="5" name="Name5" numberOfSongs="9"/>
+  </Artist>
+</MusicStore>
